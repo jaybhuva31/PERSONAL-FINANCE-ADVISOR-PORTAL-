@@ -106,13 +106,11 @@ Username 'ram' found in the BST.
 * Create GUI/Web-based version
 * Add AI-based financial advice
 
----
+
 
 ## 📷 Screenshots
 
 (Add screenshots from your project execution here – like the ones you uploaded)
-
----
 
 ## 🤝 Contributing
 
