@@ -7,7 +7,7 @@ A **Java-based console application** to help users manage their **income, expens
 
 ## 🚀 Features
 
-### 👤 User Panel
+   ### 👤 User Panel
 
 * Add income with source & date
 * Add expense with category, description & date
@@ -15,7 +15,7 @@ A **Java-based console application** to help users manage their **income, expens
 * Generate personalized **financial history & reports**
 * Get advice based on financial data
 
-### 👨‍💻 Admin Panel
+    ### 👨‍💻 Admin Panel
 
 * View all registered users
 * Delete users
@@ -23,7 +23,6 @@ A **Java-based console application** to help users manage their **income, expens
 * Find **maximum income** using **Stack**
 * Search user by username using **Binary Search Tree (BST)**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -35,7 +34,7 @@ A **Java-based console application** to help users manage their **income, expens
   * Data Structures → **Stack, BST**
   * Console-based UI
 
----
+
 
 ## 📂 Project Structure
 
